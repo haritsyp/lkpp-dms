@@ -1,0 +1,4 @@
+This is Tobacco Software Setting
+No Setting is Available
+Contact Your Software Administrator
+[DEFAULTDATE]=17/04/2014
